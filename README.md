@@ -1,0 +1,1 @@
+# lab3_sympy_Gerbise
